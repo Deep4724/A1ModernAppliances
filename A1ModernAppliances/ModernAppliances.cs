@@ -7,8 +7,8 @@ namespace ModernAppliances
     /// Manager class for Modern Appliances
     /// </summary>
     /// <remarks>Do not modify this file</remarks>
-    /// <remarks>Author: Nick Hamnett (nick.hamnett@sait.ca)</remarks>
-    /// <remarks>Date: January 17, 2023</remarks>
+    /// <remarks>Author: Yaling Wei, Deep Patel , Het Patel, Sujal Patel </remarks>
+    /// <remarks>Date: 18-june -2024</remarks>
     internal abstract class ModernAppliances
     {
         /// <summary>
